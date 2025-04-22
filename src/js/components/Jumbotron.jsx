@@ -1,6 +1,6 @@
 function Jumbotron(){
     return (
-        <div className=" p-4 bg-body-tertiary">
+        <div className=" p-4  bg-body-tertiary">
             <h1>
                 A Warm Welcome!
             </h1>
